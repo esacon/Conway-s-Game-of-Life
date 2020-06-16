@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Cadenas/.idea/Cadenas.iml" filepath="$PROJECT_DIR$/../Cadenas/.idea/Cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/El_Juego_de_la_vida_de_Conway.iml" filepath="$PROJECT_DIR$/.idea/El_Juego_de_la_vida_de_Conway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LaHormigaDeLangton/.idea/LaHormigaDeLangton.iml" filepath="$PROJECT_DIR$/../LaHormigaDeLangton/.idea/LaHormigaDeLangton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Markov/.idea/Markov.iml" filepath="$PROJECT_DIR$/Markov/.idea/Markov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Permutations/.idea/Permutations.iml" filepath="$PROJECT_DIR$/../Permutations/.idea/Permutations.iml" />
+    </modules>
+  </component>
+</project>
